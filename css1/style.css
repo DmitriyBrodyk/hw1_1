@@ -1,0 +1,27 @@
+.mainblock {
+    display: block;
+    margin: auto;
+    width: 500px;
+}
+body {
+    background-color: #f6f3f5;
+    font-family: Arial;
+}
+img {
+    border: 1px solid #8f8f8f;
+    background: #0056d3;
+    margin-left:  100px;
+    width="200" height="200"
+
+    }
+    .blank1 {
+        list-style-type: none;
+    }
+a {
+    font-style: italic;
+}
+p {
+    font-size: 14px;
+    font-weight: bold;
+    color: #5d5f5f;
+    }
